@@ -25,8 +25,6 @@ Our analysis revealed insightful performance differences:
 The study highlights the importance of selecting appropriate models based on the nature and combination of exogenous variables. While SARIMAX excels with individual exogenous factors (especially temperature), Random Forest demonstrates greater robustness and predictive power when multiple complex exogenous influences are at play. These findings provide valuable insights for developing more accurate and resilient electricity consumption forecasting models.
 
 ### Future Work (Optional)
-Explore deep learning models (e.g., LSTMs) for time series forecasting with exogenous variables.
-
-Incorporate additional exogenous factors such as holidays, economic indicators, or population changes.
-
-Develop a real-time prediction dashboard
+* Explore deep learning models (e.g., LSTMs) for time series forecasting with exogenous variables.
+* Incorporate additional exogenous factors such as holidays, economic indicators, or population changes.
+* Develop a real-time prediction dashboard
